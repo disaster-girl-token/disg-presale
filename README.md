@@ -1,0 +1,3 @@
+DisasterGirlToken (DISG) Contract The DISG protocol is a blend of RFI tokenomics with the added feature of the automatic liquidity generation protocol. A fork of BEE with some added advantages, the main one being that 6% of each transaction is automatically burned to generate more demand on the token and thus increase its price.  Simple tokenomics and elegant design and production of token information have contributed to the overall success of the project. 100% community owned and driven - no token possible. #DisasterGirlToken join us on our journey into the world's greatest tech valleys!
+
+The goal is to reach the $0.5 target by the end of this year. So, get and stay hodlers.
